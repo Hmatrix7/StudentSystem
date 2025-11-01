@@ -5,20 +5,6 @@ It allows administrators or teachers to verify student details such as names, ID
 
 This project demonstrates strong use of Object-Oriented Programming (OOP) concepts such as classes, objects, inheritance, encapsulation, and polymorphism.
 
-⚙️ Features
-
-➕ Add new students
-
-📋 View all students
-
-🔍 Search for a student by ID or name
-
-✏️ Update student information
-
-❌ Delete a student record
-
-💾 Save data to file (optional for advanced version)
-
 🧠 Concepts Used
 
 Object-Oriented Programming (OOP)
